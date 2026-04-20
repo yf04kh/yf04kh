@@ -3,8 +3,11 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-![Totals Hits](https://komarev.com/ghpvc/?username=yf04kh&style=flat&color=orange&label=PROFILE+VIEWS)
-[![telegram badge](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/yf04kh) <br>
+![Totals Hits](https://komarev.com/ghpvc/?username=yf04kh&style=flat&color=orange&label=PROFILE+VIEWS) <br><br>
+[![Telegram](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/yf04kh)
+[![Instagram](https://img.shields.io/badge/Instagram-grey?style=flat&logo=instagram)](https://www.instagram.com/yf04kh)
+[![Facebook](https://img.shields.io/badge/Facebook-grey?style=flat&logo=facebook)](https://www.facebook.com/share/1bJfwwd4NC/)
+<br>
 </div>
 
 <hr></hr>
